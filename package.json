@@ -1,0 +1,11 @@
+{
+  "name": "faturamento",
+  "version": "1.0.0",
+  "description": "- Calcula o menor e o maior valor de faturamento ocorrido em um dia do mês.\r - Conta o número de dias no mês em que o valor de faturamento diário foi superior à média mensal.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
